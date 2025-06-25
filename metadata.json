@@ -1,0 +1,6 @@
+{
+  "name": "Predictive Maintenance Dashboard",
+  "description": "A dashboard for monitoring equipment health, managing maintenance tasks, predicting potential failures, and tracking inventory & reports for office equipment.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
